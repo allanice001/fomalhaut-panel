@@ -4,7 +4,7 @@ redis
 django>=1.9
 cerberus
 requests
-celery==3.1.23
+celery==5.2.2
 django-celery==3.1.17
 django-kombu
 MySQL-python
